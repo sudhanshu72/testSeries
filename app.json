@@ -25,13 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "bundler": "metro",
-      "output": "static"
+      "bundler": "metro"
     },
     "plugins": [
       "expo-asset",
-      "expo-font",
-      "expo-secure-store"
+      "expo-font"
     ]
   }
 }
